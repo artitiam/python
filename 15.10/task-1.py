@@ -7,7 +7,6 @@ class Buyer:
         self.credit_card = credit_card
         self.bank_account = bank_account
 
-    # Методы установки значений
     def set_surname(self, surname):
         self.surname = surname
 
